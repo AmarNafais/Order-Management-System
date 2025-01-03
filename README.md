@@ -19,6 +19,18 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 ## Features
 
+### **Dashboard**
+
+-   Overview of system activity, including order stats, user activity, and machine status.
+
+    ![Dashboard Screenshot](screenshots/dashboard.png)
+
+### **Login**
+
+-   The login page allows authorized users to securely access the Order Management System.
+
+    ![Login Screenshot](screenshots/login.png)
+
 ### **User Management**
 
 -   Role-based access control with predefined roles:
@@ -28,11 +40,11 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 -   Users
 
-    ![User Screenshot](screenshots/Users.png)
+    ![User Screenshot](screenshots/user.png)
 
 -   Add User Modal
 
-    ![Add User Screenshot](screenshots/Add_User.png)
+    ![Add User Screenshot](screenshots/add-user.png)
 
 ### **Order Management**
 

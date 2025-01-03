@@ -32,7 +32,7 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 -   Add User Modal
 
-    ![Add User Screenshot](screenshots/Add User.png)
+    ![Add User Screenshot](screenshots/Add_User.png)
 
 ### **Order Management**
 

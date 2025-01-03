@@ -29,7 +29,7 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 -   The login page allows authorized users to securely access the Order Management System.
 
-    ![Login Screenshot](screenshots/Login.png)
+    ![Login Screenshot](screenshots/login-img.png)
 
 ### **User Management**
 

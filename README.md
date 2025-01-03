@@ -26,7 +26,13 @@ A modern and intuitive **Order Management System** designed to streamline operat
 -   Manage users, assign roles, and maintain user details.
 -   Display active/inactive users with real-time statistics.
 
+-   Users
+
     ![User Screenshot](screenshots/Users.png)
+
+-   Add User Modal
+
+    ![Add User Screenshot](screenshots/Add User.png)
 
 ### **Order Management**
 

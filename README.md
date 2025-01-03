@@ -23,13 +23,13 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 -   Overview of system activity, including order stats, user activity, and machine status.
 
-    ![Dashboard Screenshot](screenshots/dashboard.png)
+    ![Dashboard Screenshot](screenshots/Dashboard.png)
 
 ### **Login**
 
 -   The login page allows authorized users to securely access the Order Management System.
 
-    ![Login Screenshot](screenshots/login.png)
+    ![Login Screenshot](screenshots/Login.png)
 
 ### **User Management**
 

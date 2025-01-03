@@ -31,6 +31,12 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
     ![Login Screenshot](screenshots/login-img.png)
 
+### **Forgot Password**
+
+-   The forgot password functionality allows users to securely reset their password via email if they forget their login credentials.
+
+    ![Forgot Password Screenshot](screenshots/forgot-password.png)
+
 ### **User Management**
 
 -   Role-based access control with predefined roles:
@@ -38,13 +44,50 @@ A modern and intuitive **Order Management System** designed to streamline operat
 -   Manage users, assign roles, and maintain user details.
 -   Display active/inactive users with real-time statistics.
 
--   Users
+-   The users table provides a comprehensive view of all registered users, including their roles and management options.
 
-    ![User Screenshot](screenshots/user.png)
+    ![User Table Screenshot](screenshots/users.png)
 
--   Add User Modal
+-   The register user form allows administrators to add new users by providing their details and assigning roles.
 
-    ![Add User Screenshot](screenshots/add-user.png)
+    ![Add User Modal Screenshot](screenshots/register-user.png)
+
+### **Customer Management**
+
+-   Create, update, and delete customer records.
+-   Maintain detailed customer profiles, including contact information and address.
+-   Enable or disable customer accounts with status toggles.
+-   Real-time updates to customer lists, ensuring up-to-date records.
+-   Seamless integration with orders for streamlined management.
+
+-   Displays a comprehensive list of customers, including their details such as name, email, phone, address, and account status.
+
+    ![Customer Table Screenshot](screenshots/customer.png)
+
+-   Provides a user-friendly form to quickly add new customer details, including name, email, phone, and address.
+
+    ![Add Customer Modal Screenshot](screenshots/add-customer.png)
+
+-   Enables seamless editing of existing customer information, allowing updates to their details without leaving the page.
+
+    ![Edit Customer Modal Screenshot](screenshots/edit-customer.png)
+
+### **Material Management**
+
+-   Track and manage material stock levels.
+-   Auto-update material quantities when orders are placed.
+
+-   Displays a comprehensive list of all materials, including their names, unit costs, available stock, and measurement units for easy inventory management.
+
+    ![Material Table Screenshot](screenshots/material.png)
+
+-   Allows users to add new materials to the inventory with details such as name, unit cost, available quantity, and unit type.
+
+    ![Edit Material Screenshot](screenshots/add-material.png)
+
+-   Facilitates updates to material details, ensuring inventory information remains accurate and up-to-date.
+
+    ![Edit Customer Screenshot](screenshots/edit-material.png)
 
 ### **Order Management**
 
@@ -57,11 +100,6 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 -   Assign materials and machines to garments.
 -   View and manage garment details comprehensively.
-
-### **Material Management**
-
--   Track and manage material stock levels.
--   Auto-update material quantities when orders are placed.
 
 ### **Machine Management**
 

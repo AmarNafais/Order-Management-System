@@ -8,6 +8,8 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
+3. [Prerequisites](#prerequisites)
+4. [Steps](#steps)
 
 ---
 
@@ -177,7 +179,7 @@ A modern and intuitive **Order Management System** designed to streamline operat
 
 -   Displays a detailed breakdown of costs, including material expenses, machine hours, and total production costs for each order.
 
-    ![Cost Table Screenshot](screenshots/cost.png)
+    ![Cost Table Screenshot](screenshots/Cost.png)
 
 ### **Email Notifications**
 
